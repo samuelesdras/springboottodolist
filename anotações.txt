@@ -1,0 +1,5 @@
+criar o projeto inicial com string boot:
+    https://start.spring.io/
+
+ligar com o banco spring jpa
+    
